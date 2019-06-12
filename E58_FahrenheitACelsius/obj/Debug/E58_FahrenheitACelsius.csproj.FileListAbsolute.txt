@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\repoS10\E58_FahrenheitACelsius\E58_FahrenheitACelsius\bin\Debug\E58_FahrenheitACelsius.exe.config
+C:\Users\Yesica Moreno\source\repoS10\E58_FahrenheitACelsius\E58_FahrenheitACelsius\bin\Debug\E58_FahrenheitACelsius.exe
+C:\Users\Yesica Moreno\source\repoS10\E58_FahrenheitACelsius\E58_FahrenheitACelsius\bin\Debug\E58_FahrenheitACelsius.pdb
+C:\Users\Yesica Moreno\source\repoS10\E58_FahrenheitACelsius\E58_FahrenheitACelsius\obj\Debug\E58_FahrenheitACelsius.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repoS10\E58_FahrenheitACelsius\E58_FahrenheitACelsius\obj\Debug\E58_FahrenheitACelsius.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repoS10\E58_FahrenheitACelsius\E58_FahrenheitACelsius\obj\Debug\E58_FahrenheitACelsius.exe
+C:\Users\Yesica Moreno\source\repoS10\E58_FahrenheitACelsius\E58_FahrenheitACelsius\obj\Debug\E58_FahrenheitACelsius.pdb
